@@ -4,21 +4,21 @@
 Gameflix is a web application built using Next.js, inspired by Netflix, but focused on games. The platform aims to provide users with an extensive library of games, allowing them to explore, view details, and potentially stream or download games.
 ## Features
 
-    User Authentication: Users can sign up, log in, and manage their profiles.
-    Game Library: A curated collection of games, categorized by genres, platforms, and more.
-    Search and Filter: Advanced search and filtering options for users to find games quickly.
-    Game Details: Detailed pages for each game, including trailers, screenshots, and reviews.
-    Responsive Design: A fully responsive layout that works across all devices.
-    Personalized Recommendations: Game suggestions based on user preferences and history.
-    Admin Dashboard: A backend for managing the game library, user data, and site content.
+- User Authentication: Users can sign up, log in, and manage their profiles.
+- Game Library: A curated collection of games, categorized by genres, platforms, and more.
+- Search and Filter: Advanced search and filtering options for users to find games quickly.
+- Game Details: Detailed pages for each game, including trailers, screenshots, and reviews.
+- Responsive Design: A fully responsive layout that works across all devices.
+- Personalized Recommendations: Game suggestions based on user preferences and history.
+- Admin Dashboard: A backend for managing the game library, user data, and site content.
 
 ## Tech Stack
 
-    Frontend: Next.js, React, CSS Modules/SCSS
-    Backend: Node.js, Express, MongoDB (or an alternative database)
-    Authentication: NextAuth.js
-    Deployment: Vercel (or any preferred cloud provider)
-    State Management: Context API/Redux (based on complexity)
+- Frontend: [`Next.js`], [`React`], [`TailwindCSS`]
+- Backend: [`Node.js`], [`Express`], [`MongoDB`] (or an alternative database)
+- Authentication: [`NextAuth.js`]
+- Deployment: [`Vercel`] (or any preferred cloud provider)
+- State Management: [`Context`] [`API/Redux`] (based on complexity)
 
 
 
