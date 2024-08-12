@@ -1,8 +1,8 @@
 # Gameflix - A Netflix-Like Platform for Games
-Overview
+## Overview
 
 Gameflix is a web application built using Next.js, inspired by Netflix, but focused on games. The platform aims to provide users with an extensive library of games, allowing them to explore, view details, and potentially stream or download games.
-Features
+## Features
 
     User Authentication: Users can sign up, log in, and manage their profiles.
     Game Library: A curated collection of games, categorized by genres, platforms, and more.
@@ -12,7 +12,7 @@ Features
     Personalized Recommendations: Game suggestions based on user preferences and history.
     Admin Dashboard: A backend for managing the game library, user data, and site content.
 
-Tech Stack
+## Tech Stack
 
     Frontend: Next.js, React, CSS Modules/SCSS
     Backend: Node.js, Express, MongoDB (or an alternative database)
@@ -20,25 +20,7 @@ Tech Stack
     Deployment: Vercel (or any preferred cloud provider)
     State Management: Context API/Redux (based on complexity)
 
-Initial Setup
 
-    Project Initialization:
-        Create a new Next.js project.
-        Set up the project structure with folders for pages, components, styles, and API routes.
-
-    Styling:
-        Implement global styles using CSS Modules or SCSS.
-        Choose a color scheme and font that fits the theme of the application.
-
-    Routing:
-        Define basic routes for the homepage, game details, user profile, and admin dashboard.
-
-    Version Control:
-        Initialize Git and create a repository for version control.
-        Set up a branch strategy for development.
-
-    README.md Documentation:
-        Continuously update this README.md file with any new features, instructions, or changes.
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
