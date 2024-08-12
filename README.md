@@ -14,11 +14,11 @@ Gameflix is a web application built using Next.js, inspired by Netflix, but focu
 
 ## Tech Stack
 
-- Frontend: [`Next.js`], [`React`], [`TailwindCSS`]
-- Backend: [`Node.js`], [`Express`], [`MongoDB`] (or an alternative database)
-- Authentication: [`NextAuth.js`]
-- Deployment: [`Vercel`] (or any preferred cloud provider)
-- State Management: [`Context`] [`API/Redux`] (based on complexity)
+- Frontend: `Next.js`, `React`, `TailwindCSS`
+- Backend: `Node.js`, `Express`, `MongoDB` (or an alternative database)
+- Authentication: `NextAuth.js`
+- Deployment: `Vercel` (or any preferred cloud provider)
+- State Management: `Context` `API/Redux` (based on complexity)
 
 
 
